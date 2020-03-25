@@ -1,0 +1,7 @@
+[
+	{
+		"keys":["ctrl+1"], "command":"goto_css_declaration",
+		"args":{"goto": "next"}
+	},
+	{"keys": ["ctrl+`"], "command": "tag_classes"}
+]
